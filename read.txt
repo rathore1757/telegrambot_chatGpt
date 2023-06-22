@@ -1,0 +1,11 @@
+1: open telegram app
+
+2:search 'BotFather' in search bar
+
+3:select /newbot - create a new bot
+
+4:a bot will be created and token will be generated of this.
+
+5:Now you will chat with this bot using this token.
+
+6.Now search you query on you bot and wait for response.
